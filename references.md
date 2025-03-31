@@ -21,3 +21,4 @@ Developed and maintained various conference talks, online training, and in-perso
 ### Leadership  
 
 Managed multiple asynchronous teams, sometimes without their knowledge, in the development, maintenance, and release of various web applications and websites. Also pioneered the "commit directly to main" strategy for maximum efficiency (and chaos).  
+
